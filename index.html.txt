@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Snapdeal Products Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #e40046;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Snapdeal Products Dashboard</h1>
+    <p>Internship HTML Dashboard</p>
+</header>
+
+<div class="container">
+    <div class="card">
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Snapdeal Products Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #e40046;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 30px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .card h2 {
+            margin-bottom: 10px;
+            color: #333;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Snapdeal Products Dashboard</h1>
+    <p>Learn to build Snapdeal products</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Total Products</h2>
+        <p>500+</p>
+    </div>
+
+    <div class="card">
+        <h2>Top Category</h2>
+        <p>Electronics</p>
+    </div>
+
+    <div class="card">
+        <h2>Average Price</h2>
+        <p>₹1,250</p>
+    </div>
+
+    <div class="card">
+        <h2>Project Status</h2>
+        <p>Completed ✅</p>
+    </div>
+
+</div>
+
+</body>
+</html>
